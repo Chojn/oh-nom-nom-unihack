@@ -1,0 +1,1 @@
+Built a KNN-based Plant Suitability Predictor that recommends crops based on water and climate conditions. It uses Euclidean distance for similarity measurement and Z-score normalization for accurate classification.
